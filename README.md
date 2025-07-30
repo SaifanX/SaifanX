@@ -8,15 +8,14 @@
 
 ### 🔭 I’m currently working on:
 - ⚙️ **Fast Line Follower Robot** (ESP32, IR Sensor Arrays)
-- 🧠 **Solo Leveling System App** – a gamified life tracker built in Flutter
+- 🧠 **Solo Leveling System Web App** – a gamified life tracker built on Web
 - 📈 Personal brand + AI automation content for YouTube (like Nick Saraev)
-- 🧱 Building my skills in Web Dev, Flutter, GitHub, and Machine Learning
+- 🧱 Building my skills in Web Dev, Robotics, Agentic AI, GitHub, and Machine Learning
 
 ---
 
 ### 🌱 I’m currently learning:
 - Git + GitHub (that’s how you’re reading this 😉)
-- Flutter & Dart
 - Python & C++
 - Math for AI + Deep Learning
 - Stoic mindset + manipulation tactics + strategic thinking (Ayanokoji style 🧠)
@@ -25,7 +24,6 @@
 
 ### 👯 I’m looking to collaborate on:
 - Real-world automation projects (bots, tools, Arduino/ESP-based devices)
-- Mobile apps that help people level up IRL
 - Any open-source projects where I can actually *learn* from the code
 
 ---
@@ -46,7 +44,7 @@
 ---
 
 ### 📫 How to reach me:
-- 📧 Email: coming soon (working on a cool domain)
+- 📧 Email: mohammedsaifan07@gmail.com
 - 📱 Telegram: soon…
 - 🌐 YouTube/Website: cooking it up!
 
