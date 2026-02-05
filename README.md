@@ -8,7 +8,7 @@
 
 ### 🔭 I’m currently working on:
 - ⚙️ **Fast Line Follower Robot** (ESP32, IR Sensor Arrays)
-- 🧠 **Solo Leveling System Web App** – a gamified life tracker built on Web
+- 🧠 **White Cell Protocol** – a gamified life tracker built on Web
 - 📈 Personal brand + AI automation content for YouTube (like Nick Saraev)
 - 🧱 Building my skills in Web Dev, Robotics, Agentic AI, GitHub, and Machine Learning
 
@@ -18,7 +18,7 @@
 - Git + GitHub (that’s how you’re reading this 😉)
 - Python & C++
 - Math for AI + Deep Learning
-- Stoic mindset + manipulation tactics + strategic thinking (Ayanokoji style 🧠)
+- Stoic mindset + strategic thinking (Ayanokoji style 🧠)
 
 ---
 
@@ -29,7 +29,7 @@
 ---
 
 ### 🤝 I’m looking for help with:
-- Finding scholarships and study abroad paths after 10th
+- Finding scholarships and study abroad paths
 - Getting better at debugging like a pro
 - Scaling my personal discipline & staying focused
 
@@ -46,7 +46,7 @@
 ### 📫 How to reach me:
 - 📧 Email: mohammedsaifan07@gmail.com
 - 📱 Telegram: soon…
-- 🌐 YouTube/Website: cooking it up!
+- 🌐 YouTube/Website: https://saifan-portfolio.lovable.app
 
 ---
 
