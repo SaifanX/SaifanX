@@ -7,7 +7,7 @@
 ---
 
 ### 🏆 Achievements
-- 🥇 **Winner: TechnoFest Hackathon 2026** – [Daemons-AirGuard](https://github.com/SaifanX/Airguard-Daemons) (Pre-flight safety layer for drone pilots).
+- 🥇 **Winner: TechnoFest Hackathon 2026** – [AirGuard-Daemons](https://github.com/SaifanX/Airguard-Daemons) (Pre-flight safety layer for drone pilots).
 
 ---
 
@@ -15,8 +15,7 @@
 - 🛠️ **[Nexus Core](https://github.com/SaifanX/Nexus)** – A reactive, multi-tenant Headless Business Engine (CRM + CMS) built with **Convex, React, and TypeScript**.
 - 🧠 **[Strategos](https://github.com/SaifanX/Strategos)** – A Strategic Game Theory Laboratory for evolutionary algorithm simulations.
 - 📦 **[Omnibundler-AI](https://github.com/SaifanX/Omnibundler-AI)** – AI-native React-to-HTML and HTML-to-React transformer.
-- ⚡ **[BlackCell Chatbot](https://github.com/SaifanX/BlackCell-Chatbot)** – A brutally honest, Groq-powered AI strategist.
-- ⚪ **[White Cell Protocol](https://github.com/SaifanX/White-Cell-Docs)** – The original vision for a gamified logic tracker.
+- ⚪ **[White Cell Protocol](https://whitecellprotocol.vly.site)** – The ALL-in-ONE gamified li tracker.
 
 ---
 
@@ -42,13 +41,13 @@
 ---
 
 ### 📫 How to reach me:
-- 📧 Email: mohammedsaifan07@gmail.com
+- 📧 Email: saifanmohammad39@gmail.com
 - 🌐 Portfolio: [saifan-portfolio.lovable.app](https://saifan-portfolio.lovable.app)
 
 ---
 
 ### ⚡ Fun fact:
-> "Most developers build websites that look good. I build **engines** that perform or perish. Silence is my edge, execution is my revenge."
+> "Most developers build websites that look good. I build **engines** that perform or perish."
 
 ---
 
